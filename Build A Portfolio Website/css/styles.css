@@ -1,0 +1,52 @@
+body {
+  padding-right: 35px;
+}
+
+#image-1 {
+  margin: 50px;
+  width: 1300px;
+  padding-right: 30px;
+}
+
+#heading {
+  padding-top: 10px;
+  text-align: right;
+}
+
+#logo {
+  padding-left: 35px;
+}
+
+hr {
+  margin: 5px;
+  border: 1px solid gray;
+  }
+
+.features {
+  color: #939393;
+  padding-left: 65px;
+}
+
+.col-md-4 {
+  padding-left: 100px;
+  padding-top: 15px;
+}
+
+#style {
+  text-align: center;
+  padding-top: 3px;
+}
+
+a {
+  position: relative;
+  padding-left: 144px;
+  padding-top: 3px;
+}
+
+#text1 {
+  font-family: 'Bungee Shade', cursive;
+  }
+
+#text2 {
+  font-family: 'Rock Salt', cursive;
+}
